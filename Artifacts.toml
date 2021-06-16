@@ -1,0 +1,10 @@
+[[LibTorchCAPI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9206d002b7c5dadc9c03be22e8f13dbbad055979"
+libc = "glibc"
+os = "linux"
+
+    [[LibTorchCAPI.download]]
+    sha256 = "ae5ef1001db24333d5cf7f9f5eab326ec8c425091a93631d6ce127b64d81d194"
+    url = "https://github.com/JuliaBinaryWrappers/LibTorchCAPI_jll.jl/releases/download/LibTorchCAPI-v1.7.1+0/LibTorchCAPI.v1.7.1.x86_64-linux-gnu-cxx11.tar.gz"
